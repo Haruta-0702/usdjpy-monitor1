@@ -1,0 +1,1 @@
+print("USDJPY monitor started.")
